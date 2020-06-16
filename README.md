@@ -1,4 +1,6 @@
-# xgraph.vip
+# [xgraph.vip](http://xgraph.vip)
+
+*** http://xgraph.vip/help ***
 
 
 # 快速开始
